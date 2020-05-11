@@ -1,0 +1,13 @@
+*{margin: 0px;padding: 0px}
+
+.borderstyle{
+  width: 50%;
+  height: 300px;
+  background-color: navy;
+  /*border-width: 5px;
+  border-color: yellow;
+  border-style:dotted;*/
+  border:5px solid crimson;
+  border-radius: 10px;
+
+}

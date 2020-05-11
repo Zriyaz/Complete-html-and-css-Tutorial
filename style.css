@@ -1,13 +1,9 @@
 *{margin: 0px;padding: 0px}
-a:link{
-  color: red;
+
+.position{
+  width:600px;
+  height: 400p;
+  background-color: orange;
 }
-a:visited{
-  color: green;
-}
-a:hover{
-  color:yellow;
-}
-a:active{
-  color:blue;
+.pos1{
 }
