@@ -1,0 +1,12 @@
+*{margin: 0px;padding: 0px}
+#textstyle{
+  font-family: 'Courier New', Courier, monospace;
+  color:blue;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  direction: ltr;
+  text-indent: 20px;
+  text-align: right;
+  text-transform: uppercase;
+
+}

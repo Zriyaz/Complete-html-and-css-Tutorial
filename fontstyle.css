@@ -1,0 +1,8 @@
+*{margin: 0px;padding: 0px}
+#fontcss{
+  font-family: 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  font-size: 2em;
+  font-style: italic;
+  font-weight: 100;
+}
