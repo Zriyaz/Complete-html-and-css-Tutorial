@@ -1,0 +1,14 @@
+#h1id{
+  color:red;
+  text-align:center;
+}
+
+.myclass{
+  color:blue;
+}
+
+.backclass{
+  width:100%;
+  height:100vh;
+  background-color:steelblue;
+}
