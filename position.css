@@ -1,0 +1,40 @@
+*{margin: 0px;padding: 0px}
+
+.position{
+  width:600px;
+  height: 400px;
+  background-color: orange;
+  position:relative;
+}
+.pos1{
+  width:100px;
+  height:60px;
+  background-color:crimson;
+  position:absolute;
+  left:0;
+}
+.pos2{
+  width:100px;
+  height:60px;
+  background-color:#1313a5;
+  position:absulute;
+  right:0;
+}
+.pos3{
+  width:100px;
+  height:60px;
+  background-color:yellow;
+  position:absolute;
+  bottom:0;
+  left:0;
+  
+}
+.pos4{
+  width:100px;
+  height:60px;
+  background-color:pink;
+  position:absolute;
+  bottom:0;
+  right:0;
+  z-index:3;
+}
