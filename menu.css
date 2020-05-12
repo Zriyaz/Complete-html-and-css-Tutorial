@@ -1,0 +1,28 @@
+*{margin: 0px;padding: 0px;}
+
+.header{
+  width: 100%;
+  height: 80px;
+  background-color: blue;
+}
+.logo{
+  width: 30%;
+  line-height: 80px;
+  background-color: orange;
+  text-align: center;
+  float: left;
+}
+.menu{
+  width: 70%;
+  line-height: 80px;
+  background-color: yellow;
+  float: right;
+}
+ul{
+  list-style: none;
+  text-align: right;
+}
+li{
+  display: inline-block;
+  border: 1px solid;
+}
